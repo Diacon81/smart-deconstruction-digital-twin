@@ -1,0 +1,141 @@
+<RealityScan version="2.2.0.119430" sceneRevision="31" sceneId="{DC5CFF36-B132-4135-93B8-52E7DD09F5CA}">
+    <certificates>
+    </certificates>
+    <coordinates>
+        <projectCoordinates index="-1"/>
+    </coordinates>
+    <source>
+        <input fileName="fotos edificio Abades\1.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\2.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\3.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\4.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\5.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\6.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\7.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\8.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\9.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\10.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\11.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\12.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\13.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\14.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\15.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\16.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\17.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\18.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\19.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\20.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\21.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\22.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\23.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\24.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\25.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\26.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\27.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\28.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\29.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\30.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\31.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\32.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\33.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\34.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\35.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\36.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\37.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\38.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\39.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\40.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\41.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\42.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\43.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\44.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\45.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\46.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\47.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\48.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\49.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\50.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\51.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\52.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\53.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\54.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\55.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\56.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\57.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\58.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\59.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\60.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\61.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\62.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\63.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\64.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\65.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\66.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\67.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\68.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\69.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\70.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\71.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\72.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\73.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\74.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\75.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\76.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\77.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\78.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\79.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\80.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\81.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\82.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\83.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\84.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\85.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\86.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\87.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\88.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\89.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\90.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\91.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\92.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\93.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\94.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\95.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\96.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\97.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\98.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\99.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\100.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\101.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\102.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\103.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\104.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\105.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+        <input fileName="fotos edificio Abades\106.jpeg" width="1200" height="1600" wicPixelFormat="6FDDC324-4E03-4BFE-B185-3D77768DC90C"/>
+    </source>
+    <reconstructions selectedComponentId="{CC48202C-4F5E-4900-8E5A-A591178C9C1D}">
+        <component name="Component 0" id="{CC48202C-4F5E-4900-8E5A-A591178C9C1D}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="photogrammetry_abades_building1\sfm0.dat" selectedModel="3" sfmVisible="0"> 
+            <colorNormalization name="colorNormalization" fileName="photogrammetry_abades_building1\colorNormalization0.dat" />
+            <metadata fileName="photogrammetry_abades_building1\metadata0.dat"/>
+            <model name="HighPoly" fileName="photogrammetry_abades_building1\model0.dat" unwrappedArea="0.0000000000000000e+00" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+00" texturesUtilization="0.0000000000000000e+00" texelSize="0.0000000000000000e+00" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+00" coloringStyle="10" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="2147483647" unwrappingMethod ="2147483647" unwrapModifiers ="0" unwrapName="" cleanMark="2" selectedTxLayerGuid="{00000000-0000-0000-0000-000000000000}" depthMapsLibVersion="0"  >
+            </model>
+            <model name="HighPoly Filtered" fileName="photogrammetry_abades_building1\model1.dat" unwrappedArea="0.0000000000000000e+00" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+00" texturesUtilization="0.0000000000000000e+00" texelSize="0.0000000000000000e+00" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+00" coloringStyle="10" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="2147483647" unwrappingMethod ="2147483647" unwrapModifiers ="0" unwrapName="" cleanMark="3" selectedTxLayerGuid="{00000000-0000-0000-0000-000000000000}" depthMapsLibVersion="0"  >
+            </model>
+            <model name="HighPoly Smoothed" fileName="photogrammetry_abades_building1\model2.dat" unwrappedArea="2.7683282240108820e+03" unwrappLargeTriRemThr="400.000000" minimalTexelSize="5.6241187267005444e-03" texturesUtilization="5.9366893768310547e-01" texelSize="8.7880603969097137e-03" chartsGutterSize="2" averageEdgeLength="3.9037826285496832e-02" coloringStyle="11" texturingStyle="2" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrappingMethod ="0" unwrapModifiers ="1" unwrapName="55703792-1613-4F21-84CC-D214FF14109940b2b003285a9b00c8f3c409d0c1f8a8" cleanMark="0" selectedTxLayerGuid="{C5437464-4174-4536-9365-5F42B02CF2F5}" depthMapsLibVersion="0"  >
+                <textures>
+                    <textureLayer texturingStyle="2" inputLayer="1" computationTime="74" id="{C5437464-4174-4536-9365-5F42B02CF2F5}" />
+                    <textureLayer texturingStyle="4" computationTime="11" id="{5E6A2D57-0EA5-4335-BCF6-AC8F9C81E40D}" />
+                </textures>
+            </model>
+            <model name="LowPoly" fileName="photogrammetry_abades_building1\model3.dat" unwrappedArea="2.7683282240108820e+03" unwrappLargeTriRemThr="400.000000" minimalTexelSize="5.6241187267005444e-03" texturesUtilization="5.9366893768310547e-01" texelSize="8.7880603969097137e-03" chartsGutterSize="2" averageEdgeLength="3.9037826285496832e-02" coloringStyle="11" texturingStyle="9" minimalAdaptiveTexelSize="0.0000000000000000e+00" maximalAdaptiveTexelSize="0.0000000000000000e+00" unwrappingStyle="0" unwrappingMethod ="0" unwrapModifiers ="1" unwrapName="962614FF-4445-4797-8007-A583559D4B1340b2b003285a9b00c8f3c409d0c1f8a8" cleanMark="0" selectedTxLayerGuid="{C1A827B6-DA24-452D-A6EF-A206FBDC991D}" depthMapsLibVersion="0"  >
+                <textures>
+                    <textureLayer texturingStyle="9" inputLayer="1" computationTime="14" sourceModel="{55703792-1613-4F21-84CC-D214FF141099}" sourceLayer="{C5437464-4174-4536-9365-5F42B02CF2F5}" id="{C1A827B6-DA24-452D-A6EF-A206FBDC991D}" />
+                    <textureLayer texturingStyle="4" computationTime="11" id="{F3DE9625-8780-46AF-9739-08E7B5444C20}" />
+                </textures>
+            </model>
+        </component>
+    </reconstructions>
+    <entities name="entities" fileName="photogrammetry_abades_building1\entities0.dat"/>
+    <animation fileName="photogrammetry_abades_building1\animation0.dat"/>
+    <controlpoints fileName="photogrammetry_abades_building1\controlpoints0.dat"/>
+    <appConfig fileName="photogrammetry_abades_building1\appConfig0.dat" />
+</RealityScan>

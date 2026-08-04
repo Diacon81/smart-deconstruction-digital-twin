@@ -1,1 +1,22 @@
-
+dimension,indicator,target,result,status,evidence,notes
+Data acquisition,Images captured,Complete case-study dataset,106 images,achieved,dataset/raw_images/abades,Real Abades building
+Photogrammetry,Camera alignment,Maximum feasible alignment,106/106 cameras,achieved,dataset/photogrammetry/screenshots,RealityScan alignment
+Photogrammetry,Geometric accuracy,RMSE <= 5-10 cm,Not measured,not_evaluated,dataset/photogrammetry/project_info,No ground control points were used
+Photogrammetry,High-poly mesh,Generate textured 3D model,Approx. 2.3 million triangles,achieved,dataset/photogrammetry/exports/original_model,High-density visual model
+Photogrammetry,Simulation-ready model,Simplified geometry,Generated,achieved,dataset/photogrammetry/exports/simplified_model,Prepared for CoppeliaSim
+Computer vision,Annotated dataset,Domain-specific dataset,105 images,achieved,dataset/photogrammetry/yolo,Classes: pilar and forjado
+Computer vision,mAP50,>= 0.80,0.206,not_achieved,dataset/photogrammetry/yolo,V13 result
+Computer vision,Precision,Descriptive indicator,0.667,measured,dataset/photogrammetry/yolo,V13 result
+Computer vision,Recall,>= 0.75,0.198,not_achieved,dataset/photogrammetry/yolo,V13 result
+Computer vision,F1-score,Descriptive indicator,0.306,measured,dataset/photogrammetry/yolo,V13 result
+Risk assessment,Risks identified,Preliminary risk mapping,9 risks,achieved,dataset/photogrammetry/documentation,6 high and 3 medium risks
+Risk assessment,Maximum risk level,Identify critical risks,9,measured,dataset/photogrammetry/documentation,Unprotected openings
+Simulation,CoppeliaSim scene integration,Functional virtual scene,Completed,achieved,dataset/photogrammetry/simulation,Building Pioneer P3DX and UAV included
+Simulation,Collision count,0 collisions,Not measured,not_evaluated,dataset/photogrammetry/simulation,Future quantitative experiment
+Simulation,Minimum safety distance,Defined safety margin,Not measured,not_evaluated,dataset/photogrammetry/simulation,Future quantitative experiment
+Simulation,Trajectory time,Recorded operation time,Not measured,not_evaluated,dataset/photogrammetry/simulation,Future quantitative experiment
+Traceability,Complete material records,100 percent,Not implemented,conceptual,dataset/photogrammetry/documentation,BIM PostgreSQL and blockchain roadmap
+Environmental,Avoided CO2,Descriptive indicator,Not calculated,conceptual,dataset/photogrammetry/documentation,Requires material inventory and validated methodology
+Robotics,Monopod robot integration,Interior inspection capability,Conceptual proposal,conceptual,dataset/photogrammetry/documentation,Future extension for difficult-access areas
+Repository,Technical evidence,Documented workflow,Completed,achieved,README.md,Images models YOLO reports and simulation
+Scientific transfer,Research article,Manuscript preparation,In progress,in_progress,dataset/photogrammetry/documentation,Pending submission and editorial review
